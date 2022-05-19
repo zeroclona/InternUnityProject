@@ -1,0 +1,16 @@
+C:\Users\Zero\Desktop\InternProject\bin\Debug\net5.0-windows\InternProject.exe
+C:\Users\Zero\Desktop\InternProject\bin\Debug\net5.0-windows\InternProject.deps.json
+C:\Users\Zero\Desktop\InternProject\bin\Debug\net5.0-windows\InternProject.runtimeconfig.json
+C:\Users\Zero\Desktop\InternProject\bin\Debug\net5.0-windows\InternProject.runtimeconfig.dev.json
+C:\Users\Zero\Desktop\InternProject\bin\Debug\net5.0-windows\InternProject.dll
+C:\Users\Zero\Desktop\InternProject\bin\Debug\net5.0-windows\ref\InternProject.dll
+C:\Users\Zero\Desktop\InternProject\bin\Debug\net5.0-windows\InternProject.pdb
+C:\Users\Zero\Desktop\InternProject\obj\Debug\net5.0-windows\InternProject.csproj.AssemblyReference.cache
+C:\Users\Zero\Desktop\InternProject\obj\Debug\net5.0-windows\InternProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zero\Desktop\InternProject\obj\Debug\net5.0-windows\InternProject.AssemblyInfoInputs.cache
+C:\Users\Zero\Desktop\InternProject\obj\Debug\net5.0-windows\InternProject.AssemblyInfo.cs
+C:\Users\Zero\Desktop\InternProject\obj\Debug\net5.0-windows\InternProject.csproj.CoreCompileInputs.cache
+C:\Users\Zero\Desktop\InternProject\obj\Debug\net5.0-windows\InternProject.dll
+C:\Users\Zero\Desktop\InternProject\obj\Debug\net5.0-windows\ref\InternProject.dll
+C:\Users\Zero\Desktop\InternProject\obj\Debug\net5.0-windows\InternProject.pdb
+C:\Users\Zero\Desktop\InternProject\obj\Debug\net5.0-windows\InternProject.genruntimeconfig.cache
