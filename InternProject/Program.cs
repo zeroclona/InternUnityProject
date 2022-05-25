@@ -4,7 +4,7 @@ namespace InternProject
 {
     class Program
     {
-        //[STAThread]
+        [STAThread]
         static void Main(string[] args)
         {
           new PngDiscolor();

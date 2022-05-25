@@ -24,8 +24,16 @@ namespace InternTask1
             Console.WriteLine("Trying to calculate: "+"3 6.7 + sqrt");
             Console.WriteLine(Calculator.Calculate("3 6.7 + sqrt"));
 
-            Console.WriteLine("Now try it yourself! \nCalculator reads in RPN and supports: +, -, *, /, sqrt, %, ^ and operations with negative and double numbers");
-            Console.WriteLine(Calculator.Calculate(Console.ReadLine()));
+            Console.WriteLine("\nNow try it yourself!");
+            var continueString = "yes";
+            while (continueString == "yes")
+            {
+              Console.WriteLine("Calculator reads in RPN and supports: +, -, *, /, sqrt, %, ^ and operations with negative and double numbers");
+              Console.WriteLine("Answer is "+Calculator.Calculate(Console.ReadLine()));
+
+              Console.Write("\nDo you want continue? (Type 'yes') ");
+              continueString = Console.ReadLine();
+            }
         }
     }
 }

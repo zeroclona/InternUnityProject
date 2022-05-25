@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Zero\\Desktop\\InternProject\\InternProject.csproj",
+      "projectUniqueName": "C:\\Users\\Zero\\InternUnityProject\\InternProject\\InternProject.csproj",
       "projectName": "InternProject",
-      "projectPath": "C:\\Users\\Zero\\Desktop\\InternProject\\InternProject.csproj",
+      "projectPath": "C:\\Users\\Zero\\InternUnityProject\\InternProject\\InternProject.csproj",
       "packagesPath": "C:\\Users\\Zero\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Zero\\Desktop\\InternProject\\obj\\",
+      "outputPath": "C:\\Users\\Zero\\InternUnityProject\\InternProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Zero\\AppData\\Roaming\\NuGet\\NuGet.Config"

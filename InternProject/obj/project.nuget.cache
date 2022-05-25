@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Kz6FoX8e6K+vbYjxowaihXRgVaIi6bLsEcNesPYjrMdjJbRJEYwyNG5CKCGMX2XXkGpVp3Ap7K4ahm3Bp+L+jQ==",
+  "dgSpecHash": "aSlLDdi6VbfUvFLE3gAZVNW3uvke1I203YdFq69iTSZrJYvWk5P+iTFmq5h3LA/ahq+JtWnon/MVnFdoaSsaXA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Zero\\Desktop\\InternProject\\InternProject.csproj",
+  "projectFilePath": "C:\\Users\\Zero\\InternUnityProject\\InternProject\\InternProject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

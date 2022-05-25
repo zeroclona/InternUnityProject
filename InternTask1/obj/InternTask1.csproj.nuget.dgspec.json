@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Zero\\Desktop\\InternTask1\\InternTask1.csproj": {}
+    "C:\\Users\\Zero\\InternUnityProject\\InternTask1\\InternTask1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Zero\\Desktop\\InternTask1\\InternTask1.csproj": {
+    "C:\\Users\\Zero\\InternUnityProject\\InternTask1\\InternTask1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zero\\Desktop\\InternTask1\\InternTask1.csproj",
+        "projectUniqueName": "C:\\Users\\Zero\\InternUnityProject\\InternTask1\\InternTask1.csproj",
         "projectName": "InternTask1",
-        "projectPath": "C:\\Users\\Zero\\Desktop\\InternTask1\\InternTask1.csproj",
+        "projectPath": "C:\\Users\\Zero\\InternUnityProject\\InternTask1\\InternTask1.csproj",
         "packagesPath": "C:\\Users\\Zero\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Zero\\Desktop\\InternTask1\\obj\\",
+        "outputPath": "C:\\Users\\Zero\\InternUnityProject\\InternTask1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Zero\\AppData\\Roaming\\NuGet\\NuGet.Config"

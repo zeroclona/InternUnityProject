@@ -69,10 +69,10 @@ public class TestingGameManager : MonoBehaviour
       gameHasEnded = true;
       panelStr = "Well done!\n";
       secondsToEnd = 3;
-      StartCoroutine(EndTimer());
+      StartCoroutine(EndCountdown());
     }
 
-    IEnumerator EndTimer(){
+    IEnumerator EndCountdown(){
       for(int i = 0; i<3; i++){
         portalPanelText.text = panelStr + string.Format("Game restarts in {0} seconds", secondsToEnd);
         secondsToEnd -= 1;

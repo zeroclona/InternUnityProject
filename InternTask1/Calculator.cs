@@ -8,6 +8,8 @@ namespace InternTask1
 {
   public class Calculator
   {
+    private Calculator(){}
+
     public static double Calculate(string inStr){
       var stack = new Stack<double>();
       var calcStringSeparator = new char[1]{' '};
@@ -59,6 +61,7 @@ namespace InternTask1
               stack.Push(stack.Pop() * 0.01);
               break;
             default:
+              Console.WriteLine("Ошибка! Введена нераспознанная подстрока: "+word);
               break;
           }
         }
